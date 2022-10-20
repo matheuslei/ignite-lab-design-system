@@ -202,7 +202,7 @@ npx tailwindcss init -p
 
 ## Cores
 
-- [Projeto Figma - Colors](https://www.figma.com/file/2ws9TBu6IweT00RnFdCo6a/Ignite-Lab-%233---Do-Figma-ao-React?node-id=46%3A101)
+https://www.figma.com/file/A6F3TLEwNeafcepIk0avu1/Ignite-Lab-Design-System?node-id=19%3A65
 
 ![image](https://user-images.githubusercontent.com/12506432/196307824-ffffbb16-089e-411a-8273-6ab3b33bdfea.png)
 
@@ -487,7 +487,7 @@ module.exports = {
 ### Clone o projeto e acesse a pasta
 
 ```bash
-git clone https://github.com/claudneysessa/rocketseat-ignite-lab-design-system
+git clone https://github.com/matheuslei/ignite-lab-design-system
 ```
 
 ### Siga os passos abaixo:
