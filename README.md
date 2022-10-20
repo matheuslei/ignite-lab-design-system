@@ -5,8 +5,6 @@ Evento disponibilizado pela [RocketSeat](https://www.rocketseat.com.br/)
 
 ## Tema: Design System com Figma, React e StoryBook
 
-<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/claudneysessa/RocketSeat-ignite-lab-design-system"/>
-
 Projeto desenvolvido durante a semana de 10/10/2022 a 13/11/2022, onde pude ter contato com várias ferramentas para a construção de um Design System como, Figma, React, StoryBook e TailwindCSS.
 
 ## A aplicação teve as seguintes etapas de construção
@@ -33,21 +31,23 @@ Projeto desenvolvido durante a semana de 10/10/2022 a 13/11/2022, onde pude ter 
 Durante as aulas, pude conhecer como montar uma estrutura visual de um design system na prática com o Figma e como porta-lo para o código disponibilizando assim os dados para testes dos componentes via StoryBook,
 deploy automatizado com GitHub Actions e simulação do Front-End em Vite.
 
-![image](https://user-images.githubusercontent.com/12506432/195761826-2861aa90-156f-45d3-9ec3-6730930b3757.png)
+![image](https://user-images.githubusercontent.com/65515537/196948579-b697a7c9-fa4d-42c9-9d02-863dd34e7e31.png)
   
 </div>
 
 ## Projeto no Figma
 
-[https://www.figma.com/file/2ws9TBu6IweT00RnFdCo6a/Ignite-Lab-Design-System?node-id=14%3A162](https://www.figma.com/file/2ws9TBu6IweT00RnFdCo6a/Ignite-Lab-Design-System?node-id=14%3A162)
+https://www.figma.com/file/A6F3TLEwNeafcepIk0avu1/Ignite-Lab-Design-System?node-id=0%3A1
   
 ### Pagina de Login:
 
-![image](https://user-images.githubusercontent.com/12506432/195759270-ae386b8b-4737-408b-9a74-f961af057651.png)
+![image](https://user-images.githubusercontent.com/65515537/196948873-f33f7383-be81-4698-a798-c0b46dd0b3a5.png)
+
   
 ### Estrutura dos Componentea gerados:
 
-![image](https://user-images.githubusercontent.com/12506432/196312869-e9a46ccf-f881-4584-b1ad-d5213ec876fe.png)
+![image](https://user-images.githubusercontent.com/65515537/196946987-76a40aa3-9a08-437e-88d0-aef83d5861c2.png)
+
   
 ## Configurando o Projeto
 
