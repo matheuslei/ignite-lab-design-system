@@ -470,7 +470,6 @@ module.exports = {
 
 ### Veja aqui a publicação do StoryBook no GitHub Pages
 
-- [https://claudneysessa.github.io/rocketseat-ignite-lab-design-system](https://claudneysessa.github.io/rocketseat-ignite-lab-design-system/?path=/story/components-button--default)
   
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/12506432/195783039-a5894c65-576a-4afa-a53a-92e09359e40c.png">
 
