@@ -471,15 +471,15 @@ module.exports = {
 ### Veja aqui a publicação do StoryBook no GitHub Pages
 
   
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/12506432/195783039-a5894c65-576a-4afa-a53a-92e09359e40c.png">
+<img width="1440" alt="image" src="![image](https://user-images.githubusercontent.com/65515537/197558575-7b892372-3f45-4719-aadc-d69d3449446c.png)">
 
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/12506432/195783108-1897753f-12f0-4bc7-8b62-5b4986074414.png">
+<img width="1440" alt="image" src="![image](https://user-images.githubusercontent.com/65515537/197558662-46df0e3a-240d-4054-b245-7b767dfd34be.png)">
 
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/12506432/195782423-ff44783f-e7c1-4fe1-955d-bfd818c67bd5.png">
+<img width="1440" alt="image" src="![image](https://user-images.githubusercontent.com/65515537/197558722-a1d1daf8-3a76-4cc0-9740-66f166665cda.png)">
 
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/12506432/195783243-f5f4874e-34a2-4d2d-83c0-ae2fc1aa9978.png">
+<img width="1440" alt="image" src="![image](https://user-images.githubusercontent.com/65515537/197558767-e7ba0f19-d8fc-440b-b9ae-ec5d3c484a94.png)">
 
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/12506432/195783293-69f2124a-4fd4-4cf0-a3f2-720a6fef29f3.png">
+<img width="1440" alt="image" src="![image](https://user-images.githubusercontent.com/65515537/197558820-5b87e8c7-bfac-4eff-be69-d7a4cffc256e.png)">
 
 ## Instalação e uso
 
